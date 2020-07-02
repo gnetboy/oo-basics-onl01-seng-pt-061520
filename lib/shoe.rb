@@ -10,7 +10,7 @@ class Shoe
     
    def cobble()
      self.condition="new"
-     puts "says that the shoe has been repaired"
+     puts 'says that the shoe has been repaired'
    end
     
 end
