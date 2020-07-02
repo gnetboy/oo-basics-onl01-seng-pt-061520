@@ -11,7 +11,7 @@ class Shoe
    def initialize(brand)
        @brand=brand
    end
-   def cobble
+   def cobble()
      puts "says that the shoe has been repaired"
    end
     
